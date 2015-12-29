@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MVCTest.iml" filepath="$PROJECT_DIR$/MVCTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrolltext.iml" filepath="$PROJECT_DIR$/scrolltext.iml" />
     </modules>
   </component>
 </project>
